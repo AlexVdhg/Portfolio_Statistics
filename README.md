@@ -4,8 +4,6 @@
 [![Pluto.jl](https://img.shields.io/badge/Pluto.jl-Notebook-4063D8?style=flat)](https://plutojl.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[🇫🇷 Français](#-français) • [🇬🇧 English](#-english)
-
 ---
 
 ## Français
@@ -23,8 +21,8 @@ Aucune installation n'est nécessaire pour consulter le notebook : [Lien de lect
 ### Contexte et objectifs
 
 L'objectif de ce projet est double :
-1. Pédagogique : vulgariser des concepts statistiques avancées (mélanges gaussiens, algorithme EM, échantillonnage de Gibbs).
-2. Démonstratif : illustrer ma capacité à modéliser un problème mathématique, l'implémenter en Julia et communiquer les résultats associés.
+- Pédagogique : vulgariser des concepts statistiques avancées (mélanges gaussiens, algorithme EM, échantillonnage de Gibbs).
+- Démonstratif : illustrer ma capacité à modéliser un problème mathématique, l'implémenter en Julia et communiquer les résultats associés.
 
 ### Installation
 
