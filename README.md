@@ -16,7 +16,7 @@ Ce notebook aborde l'estimation des paramètres d'un mélange de lois gaussienne
 
 ### Lire le notebook sans installer Julia
 
-Aucune installation n'est nécessaire pour consulter le notebook : [Lien de lecture du notebook](*[lien](https://pluto.land/n/ru2vdu6i)*)
+Aucune installation n'est nécessaire pour consulter le notebook : https://pluto.land/n/ru2vdu6i
 
 ### Contexte et objectifs
 
@@ -66,7 +66,7 @@ This notebook covers parameter estimation for a Gaussian mixture model from obse
 
 ### Read the notebook without installing Julia
 
-No installation is required to view the notebook: [Notebook viewing link](*[lien](https://pluto.land/n/ru2vdu6i)*)
+No installation is required to view the notebook: https://pluto.land/n/ru2vdu6i
 
 ### Background and Objectives
 
